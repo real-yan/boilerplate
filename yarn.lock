@@ -2940,10 +2940,10 @@
     "@types/node" "*"
     form-data "^3.0.0"
 
-"@types/node@*", "@types/node@^16.4.13":
-  version "16.4.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.4.13.tgz#7dfd9c14661edc65cccd43a29eb454174642370d"
-  integrity sha512-bLL69sKtd25w7p1nvg9pigE4gtKVpGTPojBFLMkGHXuUgap2sLqQt2qUnqmVCDfzGUL0DRNZP+1prIZJbMeAXg==
+"@types/node@*", "@types/node@^17.0.26":
+  version "17.0.26"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.26.tgz#1bbff9b23ee5a64f87b4f30c0c854b112ee2e635"
+  integrity sha512-z/FG/6DUO7pnze3AE3TBGIjGGKkvCcGcWINe1C7cADY8hKLJPDYpzsNE37uExQ4md5RFtTCvg+M8Mu1Enyeg2A==
 
 "@types/node@^14.0.10":
   version "14.14.41"
@@ -3040,10 +3040,10 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.0.tgz#7036640b4e21cc2f259ae826ce843d277dad8cff"
   integrity sha512-RJJrrySY7A8havqpGObOB4W92QXKJo63/jFLLgpvOtsGUqbQZ9Sbgl35KMm1DjC6j7AvmmU2bIno+3IyEaemaw==
 
-"@types/styled-components@^5.1.12":
-  version "5.1.12"
-  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.12.tgz#1a3679942746adecd1e736bfc47aea2c938a7d9a"
-  integrity sha512-sTjc0+gMl08JvOHchQKgEGbbiSexSvWg5khUNSH4kosb7Tl4782AtfWMkAhQmeXMg2vIn6PthGVHFW+U/Dpihg==
+"@types/styled-components@^5.1.25":
+  version "5.1.25"
+  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.25.tgz#0177c4ab5fa7c6ed0565d36f597393dae3f380ad"
+  integrity sha512-fgwl+0Pa8pdkwXRoVPP9JbqF0Ivo9llnmsm+7TCI330kbPIFd9qv1Lrhr37shf4tnxCOSu+/IgqM7uJXLWZZNQ==
   dependencies:
     "@types/hoist-non-react-statics" "*"
     "@types/react" "*"
